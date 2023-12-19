@@ -1,0 +1,14 @@
+PMS Test for Build
+
+Name: BDS-info
+Copyright: Copyright (C) 2007-2023 Synopsys, Inc.
+Product-Version: 2024.1.0-rc
+Implementation-Title: Hub
+Implementation-Version: 2024.1.0-rc
+Implementation-Vendor: Black Duck Software, Inc.
+Build: jenkins-Hub-Production-2024.1-Hub - Nightly RC-12
+Build-Time: Sun Dec 17 21:07:14 EST 2023
+Last-Commit: 
+
+
+Check the Jobs runs to scan at 1:01 AM
